@@ -76,6 +76,8 @@
      <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SimpleScript.cs" />
      <Compile Include="Assets/Scripts/UI/Inventory_UI.cs" />
      <Compile Include="Assets/Scripts/UI/Slot_UI.cs" />
+     <Compile Include="Assets/Scripts/ItemManager.cs" />
+     <Compile Include="Assets/Scripts/GameManager.cs" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
