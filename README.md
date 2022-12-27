@@ -1,2 +1,2 @@
 # Farming
-A simple Unity Farming game!
+A simple farming game made with Unity!
