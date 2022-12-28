@@ -518,87 +518,87 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inventory:
     slots:
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
-    - type: 0
+    - itemName: 
       count: 0
       maxAllowed: 99
       icon: {fileID: 0}
@@ -950,8 +950,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c27eeb9bad10c4d7cb5e06ce62edf3f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  collectableItems:
-  - {fileID: 4370691507288574289, guid: 17d3e11bc59514b5a9814c4092fd9552, type: 3}
+  items:
+  - {fileID: 625976874996204982, guid: 17d3e11bc59514b5a9814c4092fd9552, type: 3}
 --- !u!114 &268534391
 MonoBehaviour:
   m_ObjectHideFlags: 0
