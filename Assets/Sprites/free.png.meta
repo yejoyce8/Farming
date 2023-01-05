@@ -2091,7 +2091,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_94
+      name: potato_free
       rect:
         serializedVersion: 2
         x: 176
@@ -2415,6 +2415,7 @@ TextureImporter:
       free_11: 1875077957
       free_70: 310721673
       free_58: -909212650
+      potato_free: -341798083
       free_24: -1304220082
       free_32: 1330735906
       free_33: -445015100
@@ -2454,7 +2455,6 @@ TextureImporter:
       free_69: 1386046923
       free_9: 2045473703
       free_49: -638840287
-      free_94: -341798083
       free_30: 352968873
       free_77: -153675988
       free_85: -1478022926
